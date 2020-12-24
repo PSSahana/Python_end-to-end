@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="Sahana-PC" name="pytest" skipped="0" tests="1" time="24.386" timestamp="2020-12-05T17:26:11.556191"><testcase classname="test_loginPage.Test_002" name="test_LoginPage[get_data0]" time="22.858" /></testsuite></testsuites>
